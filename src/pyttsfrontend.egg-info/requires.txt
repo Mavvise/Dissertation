@@ -1,0 +1,6 @@
+spacy>=3.7
+num2words>=0.5
+cmudict>=1.0
+phonemizer>=3.2
+pydantic>=2.6
+rich>=13.7

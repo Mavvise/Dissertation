@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: pyttsfrontend
+Version: 0.1.0
+Summary: A modular TTS text-processing frontend with ARPAbet and IPA outputs.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: spacy>=3.7
+Requires-Dist: num2words>=0.5
+Requires-Dist: cmudict>=1.0
+Requires-Dist: phonemizer>=3.2
+Requires-Dist: pydantic>=2.6
+Requires-Dist: rich>=13.7

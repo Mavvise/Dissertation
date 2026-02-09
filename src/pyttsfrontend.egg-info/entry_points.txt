@@ -1,0 +1,3 @@
+[console_scripts]
+pyttsfrontend = pyttsfrontend.cli:main
+pyttsfrontend-batch = pyttsfrontend.cli:batch_main

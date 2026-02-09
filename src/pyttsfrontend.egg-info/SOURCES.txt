@@ -1,0 +1,17 @@
+pyproject.toml
+src/pyttsfrontend/__init__.py
+src/pyttsfrontend/cli.py
+src/pyttsfrontend/pipeline.py
+src/pyttsfrontend/schema.py
+src/pyttsfrontend.egg-info/PKG-INFO
+src/pyttsfrontend.egg-info/SOURCES.txt
+src/pyttsfrontend.egg-info/dependency_links.txt
+src/pyttsfrontend.egg-info/entry_points.txt
+src/pyttsfrontend.egg-info/requires.txt
+src/pyttsfrontend.egg-info/top_level.txt
+src/pyttsfrontend/baselines/num2words_only.py
+src/pyttsfrontend/baselines/phonemizer_only.py
+src/pyttsfrontend/components/normalizer.py
+src/pyttsfrontend/components/spacy_nlp.py
+src/pyttsfrontend/phonemes/arpabet.py
+src/pyttsfrontend/phonemes/ipa.py

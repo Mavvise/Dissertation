@@ -1,0 +1,8 @@
+{
+    "main_dataset": "data/wikitext_textonly.jsonl",
+    "main_n": 200,
+    "suite_dataset": "data/frontend_suite_30.jsonl",
+    "suite_n": 30,
+    "ipa_backend": "espeak-ng (CLI)",
+    "language": "en-us"
+}

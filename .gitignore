@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS / IDE
+.vscode/
+.DS_Store
+
+# Large / generated data
+data/
+results/
+results_suite/
+results_suite3/
+
+# Logs
+*.log
+
+# Environment
+.env
